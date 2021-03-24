@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/", methods=['GET', 'POST'])
 def index():
-    return "<h1>This one is avnish yadav for ci cd demo</h1>"
+    return "<h1>This  is avnish yadav for ci cd demo</h1>"
 
 
 # This is a sample Python script.
